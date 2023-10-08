@@ -1,4 +1,5 @@
 pytest
 PyPDF2
+xlrd
 openpyxl
 pandas
